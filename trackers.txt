@@ -49,8 +49,6 @@
 91.218.230.81
 94.23.183.33
 95.211.168.204
-[2a03
-[2a04
 aaa.army
 adm.category5.tv
 admin.videoenpoche.info
